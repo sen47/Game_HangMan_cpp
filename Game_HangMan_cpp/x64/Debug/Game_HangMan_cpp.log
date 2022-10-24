@@ -1,0 +1,7 @@
+﻿  GameBase.cpp
+  GameNumbers.cpp
+  GameWords.cpp
+  Main.cpp
+C:\Projects VS\Game_HangMan_cpp\Game_HangMan_cpp\Main.cpp(13,44): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Создание кода...
+  Game_HangMan_cpp.vcxproj -> C:\Projects VS\Game_HangMan_cpp\x64\Debug\Game_HangMan_cpp.exe
